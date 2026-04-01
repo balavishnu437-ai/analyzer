@@ -47,7 +47,7 @@ elif st.session_state.page == "app":
 
         centers = []
 
-        total_centers = 12   # Vancomycin is more complex
+        total_centers = 18  # Vancomycin is more complex
 
         for i in range(1, total_centers + 1):
 
